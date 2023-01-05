@@ -1,0 +1,20 @@
+#7.zadatak: Nacrtaj kućicu sa slike. Oboji ju po želji.
+from turtle import *
+pencolor('pink')
+pensize(15)
+fd(200)
+lt(90)
+fd(200)
+lt(90)
+fd(200)
+lt(90)
+fd(200)
+penup()
+rt(180)
+fd(200)
+pendown()
+rt(45)
+fd(150)
+rt(90)
+fd(150)
+
